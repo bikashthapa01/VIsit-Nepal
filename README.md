@@ -1,2 +1,4 @@
 # VIsit-Nepal
-A Front - End Web Development Vacation Project
+A Front - End Web Development Project With SASS 
+
+#This Project is Still Under Development
