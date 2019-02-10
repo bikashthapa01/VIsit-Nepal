@@ -476,3 +476,12 @@ html {
     border: 3px solid #fff; }
     .heritages__img:hover {
       transform: scale(1); }
+
+.footer {
+  font-family: inherit;
+  background: #2196f399;
+  padding: 2rem;
+  box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.25);
+  text-align: center;
+
+}
